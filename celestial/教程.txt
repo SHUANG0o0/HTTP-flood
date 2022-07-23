@@ -1,0 +1,6 @@
+我们是celestial being团队
+此脚本为HTTP flood攻击
+使用前请先输入pip install -r requirements.txt
+windows:直接双击celestial.py
+linux输入命令:python celestial.py
+线程建议设置(50--1000之间)  
